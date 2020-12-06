@@ -1,0 +1,8 @@
+.comment{
+    margin: 0 10px 10px 10px;
+
+}
+
+.comment__text{
+    font-weight: 400;
+}
